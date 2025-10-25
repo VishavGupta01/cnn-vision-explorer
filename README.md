@@ -72,6 +72,6 @@ CNN_Vision_Explorer/
 ├── requirements.txt        # Python dependencies
 
 └── README.md               # This file
-``````
+```
 
 ---
