@@ -153,7 +153,7 @@ def run():
         col1, col2 = st.columns(2)
         with col1:
             st.subheader("Original Image")
-            st.image(image, caption="Original", use_container_width=True)
+            st.image(image, caption="Original", use_container_width=True) 
         with col2:
             st.subheader("Augmented Image")
             st.image(augmented_image_array, caption="Augmented", use_container_width=True)
