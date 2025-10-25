@@ -38,7 +38,7 @@ This application demonstrates the CNN pipeline through four interactive modules:
 
 ---
 ## **Project Structure**
-
+```
 CNN_Vision_Explorer/
 
 │
@@ -72,6 +72,6 @@ CNN_Vision_Explorer/
 ├── requirements.txt        # Python dependencies
 
 └── README.md               # This file
-
+``````
 
 ---
