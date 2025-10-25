@@ -1,0 +1,29 @@
+[data-testid="stAppViewContainer"] > .main .stApp {
+    max-width: 1100px;
+    margin: auto;
+}
+
+.fixed-navbar {
+    position: fixed;
+    top: 55px;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    background-color: #080c14;
+    border-bottom: 1px solid #2a3146;
+}
+
+[data-testid="stAppViewContainer"] > .main {
+    padding-top: 6rem;
+}
+
+[data-testid="stSidebar"] [data-testid="stExpander"] {
+    background-color: #2a3146;
+    border: none;
+    border-radius: 10px;
+}
+
+[data-testid="stSidebar"] [data-testid="stExpander"] summary {
+    font-weight: 600;
+    font-size: 1rem;
+}
