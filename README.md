@@ -40,37 +40,21 @@ This application demonstrates the CNN pipeline through four interactive modules:
 ## **Project Structure**
 ```
 CNN_Vision_Explorer/
-
 │
-
 ├── .streamlit/
-
 │   └── config.toml         # Streamlit theme configuration
-
 │
-
 ├── assets/
-
 │   └── style.css           # Custom CSS
-
 │
-
 ├── modules/
-
 │   ├── module_1.py         # Code for Augmentation Sandbox
-
 │   ├── module_2.py         # Code for Activation Function Lab
-
 │   ├── module_3.py         # Code for CNN Architecture Inspector
-
 │   └── module_4.py         # Code for Classifier's Decision (XAI)
-
 │
-
 ├── app.py                  # Main application script with navbar & routing
-
 ├── requirements.txt        # Python dependencies
-
 └── README.md               # This file
 ```
 
